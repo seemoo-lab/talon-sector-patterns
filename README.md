@@ -40,10 +40,10 @@ Any use of the Software which results in an academic publication or other public
 Find all references on Talon Tools in our [bibtex file](https://seemoo-lab.github.io/talon-tools/talon-tools.bib).
 
 ## Powered By
-<a href="https://www.seemoo.tu-darmstadt.de">![SEEMOO logo](https://seemoo-lab.github.io/talon-tools/logos/seemoo.png)</a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.nicer.tu-darmstadt.de">![NICER logo](https://seemoo-lab.github.io/talon-tools/logos/nicer.png)</a> &nbsp;&nbsp;&nbsp;
-<a href="http://www.maki.tu-darmstadt.de/">![MAKI logo](https://seemoo-lab.github.io/talon-tools/logos/maki.png)</a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.tu-darmstadt.de/index.en.jsp">![TU Darmstadt logo](https://seemoo-lab.github.io/talon-tools/logos/tudarmstadt.png)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.crossing.tu-darmstadt.de">![CROSSING logo](https://seemoo-lab.github.io/talon-tools/logos/crossing.jpg)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.crisp-da.de">![CRSIP logo](https://seemoo-lab.github.io/talon-tools/logos/crisp.jpg)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.cysec.tu-darmstadt.de">![CYSEC logo](https://seemoo-lab.github.io/talon-tools/logos/cysec.jpg)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.seemoo.tu-darmstadt.de">![SEEMOO logo](https://seemoo-lab.github.io/talon-tools/logos/seemoo.png)</a> &nbsp;
+<a href="https://www.nicer.tu-darmstadt.de">![NICER logo](https://seemoo-lab.github.io/talon-tools/logos/nicer.png)</a> &nbsp;
+<a href="https://www.crossing.tu-darmstadt.de">![CROSSING logo](https://seemoo-lab.github.io/talon-tools/logos/crossing.jpg)</a>&nbsp;
+<a href="https://www.crisp-da.de">![CRSIP logo](https://seemoo-lab.github.io/talon-tools/logos/crisp.jpg)</a>&nbsp;
+<a href="http://www.maki.tu-darmstadt.de/">![MAKI logo](https://seemoo-lab.github.io/talon-tools/logos/maki.png)</a> &nbsp;
+<a href="https://www.cysec.tu-darmstadt.de">![CYSEC logo](https://seemoo-lab.github.io/talon-tools/logos/cysec.jpg)</a>&nbsp;
+<a href="https://www.tu-darmstadt.de/index.en.jsp">![TU Darmstadt logo](https://seemoo-lab.github.io/talon-tools/logos/tudarmstadt.png)</a>&nbsp;
