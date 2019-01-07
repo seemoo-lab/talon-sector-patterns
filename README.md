@@ -1,10 +1,13 @@
 # Talon AD7200 Sector Patterns
-We measured individual sector patterns for the 34 predefined sectors of a Talon AD7200 router inside an anechoic chamber. The measured patterns are provided here for validation and integration in other projects. Please note that these results might be device dependent and differ on other hardware components. We cannot grantee that different devices behave similar as sector patterns depend on hardware variations and firmware versions. 
+We measured individual sector patterns for the predefined sectors of a Talon AD7200 router inside an anechoic chamber. The measured patterns are provided here for validation and integration in other projects. Please note that these results might be device dependent and differ on other hardware components. We cannot grantee that different devices behave similar as sector patterns depend on hardware variations and firmware versions. 
 
 ## Talon Tools
 These results have been generated using [Talon Tools: The Framework for Practical IEEE 802.11ad Research](https://seemoo.de/talon-tools/) in reference to our CoNEXT'17 paper "Compressive Millimeter-Wave Sector Selection in Off-the-Shelf IEEE 802.11ad Devices" (see below).
 
-## Data Structure
+## Data Structure and Usage
+The measurements are separated into different subcategories which corresponds to different measurements.
+
+### Legacy measurements
 This project contains the following files:
  * *plot_pattern_2d.m*: Plot 2D Antenna Sector Patterns
  * *plot_pattern_3d.m*: Plot 3D Antenna Sector Patterns
@@ -20,8 +23,13 @@ The 'sectorpattern_Xd_XXX.mat' files thereby contain a structure of the the foll
  * *pattern_snr*: Measured SNR values
  * *sector_set*: Set of sector
 
-## Usage
 To generate sector pattern plots just call the plot_pattern_2d.m or plot_pattern_3d.m file from within MATLAB. This will generate the patterns in individual Figures similar to the plots used in the paper. For integration in other project, simply import the 'sectorpattern_Xd_XXX.mat' files.
+
+### Precise measurements
+The precise measurements cover similar experiments than the legacy ones but with higher accuracy. In this set, we used a newer firmware and performed measurements with a precise pan tilt unit. For each sector a single file is provided describing the receives SNR.
+
+### Array factor
+The array factor described the measured complex gain in various directions and allow to create custom beam patterns.
 
 ## License
 Please carefully read our [Copyright and License](LICENSE).
