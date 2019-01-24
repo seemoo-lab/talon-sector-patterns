@@ -1,5 +1,5 @@
 # Talon AD7200 Sector Patterns
-We measured individual sector patterns for the predefined sectors of a Talon AD7200 router inside an anechoic chamber. The measured patterns are provided here for validation and integration in other projects. Please note that these results might be device dependent and differ on other hardware components. We cannot grantee that different devices behave similar as sector patterns depend on hardware variations and firmware versions. 
+We measured individual sector patterns for the predefined sectors, individual antenna elements and custom beam patterns of a Talon AD7200 router inside an anechoic chamber. The measured patterns are provided here for validation and integration in other projects. Please note that these results might be device dependent and differ on other hardware components. We cannot grantee that different devices behave similar as sector patterns depend on hardware variations and firmware versions. 
 
 ## Talon Tools
 These results have been generated using [Talon Tools: The Framework for Practical IEEE 802.11ad Research](https://seemoo.de/talon-tools/) in reference to our CoNEXT'17 paper "Compressive Millimeter-Wave Sector Selection in Off-the-Shelf IEEE 802.11ad Devices" (see below).
